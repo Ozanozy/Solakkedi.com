@@ -1,0 +1,277 @@
+@charset "utf-8";
+.style001 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	line-height: 8.3mm;
+	color: #000000;
+	font-weight: normal;
+}
+.style002 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 15px;
+	line-height: 8mm;
+	color: #000000;
+	font-weight: normal;
+}
+.styleyan {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 13pt;
+	font-weight: normal;
+}
+
+.style003 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 7.5mm;
+	color: #000000;
+	font-weight: normal;
+}
+.style004red {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	line-height: 10mm;
+	color: #990000;
+	font-weight: bold;
+}
+.style004blue {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	line-height: 10mm;
+	color: #003366;
+	font-weight: bold;
+}
+.style004black {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	line-height: 10mm;
+	font-weight: bold;
+}
+.eng01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36pt;
+	font-weight: bold;
+	color: #990000;
+}
+.eng02 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #000000;
+}
+
+
+.big {
+	font-size: 36px;
+	line-height: 10mm;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.style005black {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18pt;
+	line-height: 7mm;
+	color: #000000;
+	font-weight: bold;
+	font-style: normal;
+}
+.style005gray {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18pt;
+	line-height: 7mm;
+	color: #999999;
+	font-weight: bold;
+	font-style: normal;
+}
+.style006red {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 8.5mm;
+	color: #990000;
+	font-weight: bold;
+}
+.style007red {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24pt;
+	line-height: normal;
+	color: #990000;
+	font-weight: bold;
+}
+.style006black {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 8.5mm;
+	color: #000000;
+	font-weight: bold;
+}
+.style006blacklight {
+	font-size: 18px;
+	font-style: normal;
+	line-height: 8.5mm;
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+}
+
+.style008red {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24pt;
+	line-height: 7mm;
+	color: #990000;
+	font-weight: bold;
+}
+.style008black {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24pt;
+	line-height: 7mm;
+	color: #000000;
+	font-weight: bold;
+}
+.style009altyazi {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 5mm;
+	color: #000000;
+	font-weight: bold;
+}
+.style009grialtyazi {
+	font-size: 12px;
+	line-height: 5mm;
+	font-weight: bold;
+	color: #CCCCCC;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.style010devam {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 7mm;
+	color: #990000;
+	font-weight: bold;
+}
+.kapak {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+.kapakalt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	line-height: 6mm;
+}
+.kapakbeyaz {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.resimaltgri {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 7mm;
+	color: #000000;
+	font-weight: bold;
+	font-style: normal;
+}
+.resimaltgriitalik {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 7mm;
+	color: #666666;
+	font-weight: bold;
+	font-style: italic;
+}
+.beyaz {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 6mm;
+	color: #333333;
+	font-weight: bold;
+	font-style: normal;
+}
+.spot {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 8mm;
+	font-weight: bold;
+	color: #990000;
+}
+.design {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 15px;
+	line-height: 24px;
+	color: #000000;
+	font-weight: normal;
+}
+.times {
+	font-size: 10pt;
+	font-style: normal;
+	line-height: 8mm;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.verdana {
+	font-size: 15px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.tlink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	color: 999999;
+}
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+}
+.certificate {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 5.2mm;
+	font-weight: bold;
+	color: #000000;
+}
+.bigred {
+	font-size: 36px;
+	line-height: 10mm;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #990000;
+}
+.siir {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	line-height: 7.5mm;
+}
+.eng01b {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36pt;
+	font-weight: normal;
+	color: #990000;
+}
+.hayat1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 36px;
+	line-height: 42px;
+}
+.hayat2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14pt;
+	font-weight: bold;
+	color: #666666;
+}
